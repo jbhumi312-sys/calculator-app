@@ -19,3 +19,6 @@ Make sure Python is installed.
 
 ```bash
 python calculator.py
+## 📸 Screenshot
+
+![Calculator Screenshot](assets/screenshot.png)
